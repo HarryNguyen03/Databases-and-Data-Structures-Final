@@ -4,7 +4,7 @@ Created on Sun Dec 11 23:27:53 2022
 
 @author: Harry
 """
-#creat a list for every possible route
+#create a list for every possible route
 deliver_routes_list = []
 
 #main function
